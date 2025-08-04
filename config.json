@@ -92,6 +92,11 @@
   },
   "custom_category": [
     {
+      "name": "短剧",
+      "type": "tv",
+      "query": "短剧"
+    },    
+    {
       "name": "伦理",
       "type": "movie",
       "query": "伦理"
