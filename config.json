@@ -92,9 +92,9 @@
   },
   "custom_category": [
     {
-      "name": "短剧",
+      "name": "日本动画",
       "type": "tv",
-      "query": "短剧"
+      "query": "日本动画"
     },    
     {
       "name": "伦理",
