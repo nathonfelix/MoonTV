@@ -84,7 +84,7 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
     "modu": {
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "name": "魔都动漫"
