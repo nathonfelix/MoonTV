@@ -90,4 +90,11 @@
       "name": "魔都动漫"
     }  
   }
+  "custom_category": [
+    {
+      "name": "伦理",
+      "type": "movie",
+      "query": "伦理"
+    }
+  ]  
 }
