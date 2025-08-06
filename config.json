@@ -97,24 +97,10 @@
       "query": "日本动画"
     },    
     {
-      "name": "短剧",
-      "type": "tv",
-      "query": "短剧"
-    },   
-    {
-      "name": "短视频",
-      "type": "tv",
-      "query": "短视频"
-    }, 
-    {
       "name": "情色",
       "type": "movie",
       "query": "情色"
-    },       {
-      "name": "色情",
-      "type": "movie",
-      "query": "色情"
-    },   
+    },         
     {
       "name": "伦理",
       "type": "movie",
