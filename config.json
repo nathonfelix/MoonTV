@@ -97,11 +97,6 @@
       "query": "日本动画"
     },    
     {
-      "name": "美国动画",
-      "type": "tv",
-      "query": "美国动画"
-    },   
-    {
       "name": "情色",
       "type": "movie",
       "query": "情色"
