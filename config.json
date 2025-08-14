@@ -479,5 +479,22 @@
             "api": "https://www.fantuan.tv/api.php/provide/vod/",
             "name": "饭团影视"
         }
+    },
+  "custom_category": [
+    {
+      "name": "日本动画",
+      "type": "tv",
+      "query": "日本动画"
+    },    
+    {
+      "name": "情色",
+      "type": "movie",
+      "query": "情色"
+    },         
+    {
+      "name": "伦理",
+      "type": "movie",
+      "query": "伦理"
     }
+  ]      
 }
